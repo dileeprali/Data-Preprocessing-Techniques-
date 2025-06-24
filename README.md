@@ -13,6 +13,7 @@ This repository showcases practical and beginner-friendly implementations of **t
 ✅ Stemming  
 ✅ Lemmatization  
 ✅ Using NLTK and spaCy
+✅ Using hugging face transformers
 
 
 Even if you are a beginner, it's better to learn and do simultaneously
